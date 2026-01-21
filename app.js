@@ -837,7 +837,7 @@ class ThesisTracker {
                             <div style="background: var(--panel); padding: 1rem; border-radius: var(--radius);">
                                 <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
                                     <span>Version</span>
-                                    <span>1.0.0</span>
+                                    <span>1.0.2</span>
                                 </div>
                                 <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
                                     <span>Creator</span>
