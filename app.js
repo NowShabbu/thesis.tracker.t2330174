@@ -840,8 +840,8 @@ class ThesisTracker {
                                     <span>1.0.0</span>
                                 </div>
                                 <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem;">
-                                    <span>Theme</span>
-                                    <span>Gray Professional</span>
+                                    <span>Creator</span>
+                                    <span>Tahsin Ahmed</span>
                                 </div>
                                 <div style="display: flex; justify-content: space-between;">
                                     <span>Last Updated</span>
